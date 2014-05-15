@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1397224818 source:c:\users\martin\desktop\storemanagement\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1397224818 source:c:\users\martin\desktop\majaproject\storemanagement\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1397224818 source:c:\users\martin\desktop\softwareengineeringproject\storemanagement\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1399732642 source:c:\users\martin\desktop\unif\ma1\quadri2\ems maja project\softwareengineeringproject\storemanagement\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1399732642 source:c:\users\martin\desktop\unif\ma1\quadri2\ems maja project\softwareengineeringproject\storemanagementgithub\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
