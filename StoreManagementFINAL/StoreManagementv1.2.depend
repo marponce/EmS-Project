@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1402690607 source:c:\users\martin\desktop\unif\ma1\quadri2\ems maja project\softwareengineeringproject\storemanagement\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"check.h"
+
+1402089570 c:\users\martin\desktop\unif\ma1\quadri2\ems maja project\softwareengineeringproject\storemanagement\check.h
+	<stddef.h>
+	<string.h>
+	"check_stdint.h"
+	<sys/types.h>
+
+1401422738 c:\users\martin\desktop\unif\ma1\quadri2\ems maja project\softwareengineeringproject\storemanagement\check_stdint.h
+	<stdint.h>
+
